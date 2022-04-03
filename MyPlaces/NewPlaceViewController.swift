@@ -17,6 +17,7 @@ extension NewPlaceViewController: UITextFieldDelegate {
     // MARK: - Table View Delegate
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
         if indexPath.row == 0 {
             
         } else {
