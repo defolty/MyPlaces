@@ -43,6 +43,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FB6ACB3C27FA263100A5A6D2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FBF5B5F627F350E900222198 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		FBE066FE27F4D41300ED74DA /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -76,7 +84,7 @@
 				FBF5B60427F3588000222198 /* MainViewController.swift */,
 				FBE4D57A27F62A4D007FA4B2 /* NewPlaceViewController.swift */,
 				FBE066FA27F4CBD100ED74DA /* CustomTableViewCell.swift */,
-				FBF5B5F627F350E900222198 /* Main.storyboard */,
+				FB6ACB3C27FA263100A5A6D2 /* View */,
 				FBF5B5F927F350EA00222198 /* Assets.xcassets */,
 				FBF5B5FB27F350EA00222198 /* LaunchScreen.storyboard */,
 				FBF5B5FE27F350EA00222198 /* Info.plist */,
